@@ -1,0 +1,7 @@
+[Added Associations]
+x-scheme-handler/http=exo-web-browser.desktop;
+x-scheme-handler/https=exo-web-browser.desktop;
+application/x-shellscript=sublime_text_3.desktop;
+
+[Default Applications]
+application/x-shellscript=sublime_text_3.desktop
